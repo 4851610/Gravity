@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+a {
+	text-decoration:none;
+	color:red;
+}
+
+img {
+	cursor: pointer;
+}
+
+#mainImg {
+	width:100%;
+}
