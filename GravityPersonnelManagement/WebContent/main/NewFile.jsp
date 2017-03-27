@@ -6,7 +6,7 @@
 Connection conn = null;
 PreparedStatement pstmt = null;
 ResultSet rs = null; 
-
+ 
 String jdbc_driver = "com.mysql.jdbc.Driver";
 String jdbc_url = "jdbc:mysql://localhost/test1";
 
